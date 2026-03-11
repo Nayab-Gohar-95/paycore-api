@@ -83,7 +83,7 @@ Concurrent transfers from the same account use `SELECT ... FOR UPDATE` to acquir
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/sibghashahid/paycore-api.git
+git clone https://github.com/Nayab-Gohar-95/paycore-api.git
 cd paycore-api
 
 # 2. Start PostgreSQL + API
