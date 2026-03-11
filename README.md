@@ -4,13 +4,13 @@ A production-style **payments and ledger backend** simulating core fintech banki
 
 > Built with FastAPI · PostgreSQL · Docker · SQLAlchemy 2.0 (async) · JWT Auth
 
----
+
 
 ##  Why I Built This
 
 Payments infrastructure is one of the most technically demanding domains in software engineering. I built PayCore to learn and demonstrate the core concepts that underpin real banking and payments systems — double-entry bookkeeping, idempotency, atomic transactions, and immutable audit trails — using a production-style tech stack.
 
----
+
 
 ##  Architecture
 
